@@ -17,8 +17,8 @@ title: Lindsey's Art Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio of Lindsey's art projects
-twitter_username: username
-github_username: username
+twitter_username: linznicholson
+github_username: linznicholson
 minimal_mistakes_skin: mint
 search: true
 
@@ -92,7 +92,7 @@ footer:
       url: "https://instagram.com/par_terre6/"
 
 collections:
-  projects:
+  exhibitions:
     output: true
 
 defaults:
@@ -105,7 +105,7 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: "projects"
+      type: "exhibitions"
     values:
       layout: single
       author_profile: true
