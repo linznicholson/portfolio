@@ -1,0 +1,35 @@
+<div class="wrap">
+    <div id="gallery-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="3500">
+
+
+      <!-- Slides -->
+      <div class="carousel-inner">
+        {% for image in include.gallery %}
+          <div class="carousel-item {% if forloop.first %}active{% endif %}">
+            <img src="{{ image }}" class="d-block w-100" alt="">
+          </div>
+        {% endfor %}
+      </div>
+
+      <!-- Indicators -->
+      <div class="carousel-indicators">
+        {% for image in include.gallery %}
+          <button type="button" data-bs-target="#gallery-carousel" data-bs-slide-to="{{ forloop.index0 }}"
+            class="{% if forloop.first %}active{% endif %}" aria-label="Slide {{ forloop.index }}"></button>
+        {% endfor %}
+      </div>
+
+      <!-- Navigation Arrows -->
+      <button class="carousel-control-prev" type="button" data-bs-target="#gallery-carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#gallery-carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+</div>
+
+
+
