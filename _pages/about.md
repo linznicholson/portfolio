@@ -4,7 +4,7 @@ title: Lindsey Nicholson
 
 <div class="wrap">
   <!-- Image First -->
-  <img src="/images/about.jpg" alt="Portrait of Me"
+  <img src="{{ site.baseurl }}/images/about.jpg" alt="Portrait of Me"
    style="display: block; margin: 0 auto 2rem; max-width: 400px;
          width: 100%; height: auto; border-radius: 8px; object-fit: cover;">
 </div>
