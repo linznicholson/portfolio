@@ -1,19 +1,37 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
+layout: default
+title: A stylish full-width masonry grid theme.
+description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+featured_image: /images/social.jpg
 ---
 
-Born 1978 in the UK, Lindsey is an artist and scientist and member of ParTerre
-6 studio in  Innsbruck. Her artistic work explores the  boundaries of scientific
-and artistic inquiry/understanding and how they can generate meaning  in
-society - always revelling in the personal process, but never yet happy with
-the product.  Her scientific research on glaciers focuses on connecting
-innovative field  measurements with mathematical modelling of systems. She
-has a BSc in Geography,a PhD in Glaciology and an MA in  Applied Art.
+<section class="listing">
 
-<br><br>
-[Here some photos of the most recent exhibitions, where you can click on to be
-redirected to the exhibition page]
+	<div class="content-wrap listing-wrap">
+
+		{% for project in site.projects reversed %}
+
+		<div class="listing-item">
+
+			<a class="listing-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="listing-item__image">
+					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+					<div class="listing-item__info">
+						<h2 class="listing-item__title">{{ project.title }}</h2>
+						<p class="listing-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
