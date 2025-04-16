@@ -1,7 +1,7 @@
 ---
 title: 'An Almanac of Cold'
 subtitle: '2025: Mixed media installations | BRUX Theater, Innsbruck'
-date: 2025-04-26 00:00:00
+date: 2025-04-11 00:00:00
 featured_image: '/images/almanac_of_cold_front.jpg'
 gallery:
   - '/images/almanac_of_cold_front.jpg'
