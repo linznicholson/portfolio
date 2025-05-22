@@ -1,1 +1,18 @@
+---
+title: 'Glacier Nex Us'
+subtitle: '2021: Digital performance (35 minutes) | Online and at Konrad Lorenz Institute, Vienna'
+date: 2021-05-01 00:00:00
+featured_image: '/images/nexus_front.png'
+gallery:
+  - '/images/nexus_1.png'
+  - '/images/nexus_2.png'
+  - '/images/nexus_3.png'
+---
+
+{% include carousel.html gallery=page.gallery %}
+
+An embodied glacier performance that critically engages and interweaves glaciology  and climate sciences with themes of personal identity, patriarchy, disturbance, and  social change. 
+Part of ClimArtLab, an Austrian StartClim funded project asking how can we as individuals  and society step away from fear and take responsibility for our mess? How can we develop  intrinsic motivation and agency to address challenges related to climate change? How can artists and scientists work together towards the shared goal of supporting regenerative futures  in times of climate emergency? 
+
+(https://climartlab.space/)
 
