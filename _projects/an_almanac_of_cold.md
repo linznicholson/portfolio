@@ -5,9 +5,9 @@ date: 2025-04-11 00:00:00
 featured_image: '/images/almanac_of_cold_front.jpg'
 gallery:
   - '/images/almanac_of_cold_front.jpg'
-  - '/images/almanac_of_cold_1.jpg'
-  - '/images/almanac_of_cold_4.jpg'
-  - '/images/almanac_of_cold_5.jpg'
+  - '/images/almanac_1.jpg'
+  - '/images/almanac_4.jpg'
+  - '/images/almanac_5.jpg'
 ---
 
 {% include carousel.html gallery=page.gallery %}
