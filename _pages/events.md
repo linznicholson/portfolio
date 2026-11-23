@@ -1,7 +1,10 @@
 ---
 title: Events
 ---
+**2026 Speaker**: [In Gedenken an den Schnee](https://klimakultur.tirol/inspirieren/in-gedenken-an-den-schnee/), KlimaKultur Tirol, Glungezer Ski Resort
 
+**2024 Speaker**: [Wie kommunizieren wir den Klimawandel?](https://www.weissraum.at/veranstaltungen/den-klimawandel-kommunizieren), Weissraum, Innsbruck
+ 
 **2024 Speaker**: [This is not a Glacier](https://ail.angewandte.at/program/this-is-not-a-glacier-symposium), Vienna
 
 **2023 Panellist**: [Human Nature Kunstlerhaus](https://www.kuenstlerhaus.at/besuch/kalender/ausstellung/420/human-nature.html),
