@@ -17,8 +17,7 @@ Vienna <br>Panel discussion “Facing North” as part of the Aktionstag
 **2023 Speaker**: Alternate Glacialities, Graz <br> Workshop presentation (45 minutes):
 *Nature is replete with cycles, and glaciers, which have waxed and waned over
 geological time in  response to changes in Earth’s energy receipts, are no
-exception. Yet these cycles are non symmetrical; glacier decline does not mirror
-glacier growth in pacing or process, and the glaciers  alter their own landscape
+exception. Yet glacier decline does not mirror glacier growth in pacing or process, and the glaciers  alter their own landscape
 over time, giving rise to a hysteresis rather than a reversible oscillation.
 Using these examples of glacier change we explore irreversible aspects of natural
 systems, and  how these affect our sense of agency in the face of climate crisis.*
