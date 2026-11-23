@@ -22,8 +22,8 @@ glacier growth in pacing or process, and the glaciers  alter their own landscape
 over time, giving rise to a hysteresis rather than a reversible oscillation.
 Using these examples of glacier change we explore irreversible aspects of natural
 systems, and  how these affect our sense of agency in the face of climate crisis.
-<br>Part of an artistic/scientific/philosophical exchange workshop on Mapping the
-Irreverse, to explore  the quantum and macro scale conceptions and implications
+<br>Part of an artistic/scientific/philosophical exchange workshop on [Mapping the
+Irreverse](https://www.the-irreverse.zone/), to explore the quantum and macro scale conceptions and implications
 of irreversibility. <a href="https://www.the-irreverse.zone/">https://www.the-irreverse.zone/</a> 
 
 **2021 Residency**: Hospitable Utopia, Uzice <br><a href="https://artscience.uni-ak.ac.at/works?work_id=1661149428353">https://artscience.uni-ak.ac.at/works?work_id=1661149428353</a>
